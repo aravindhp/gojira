@@ -1,2 +1,2 @@
-# gojira
+# GoJira
 Jira slack bot
