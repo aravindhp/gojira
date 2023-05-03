@@ -1,2 +1,2 @@
 # GoJira
-Jira slack bot
+Jira slack bot.
